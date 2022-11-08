@@ -1,0 +1,24 @@
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i:hover {
+	font-size: 25px;
+	color: black;
+}
+
